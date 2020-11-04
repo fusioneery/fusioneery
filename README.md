@@ -1,16 +1,13 @@
-### Hi there 👋
+## About me
+Love doing my job. Do not limit myself to just frontend and just web apps.
+Grow up to be a person, who has not only tech skills.
 
-<!--
-**fusioneery/fusioneery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills, experience
+More info and CV [on my website](https://vladabramov.pro/).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interested in
+- knowledge management
+- building an effective team
+- system design
+- mental models
+- system engineering
